@@ -1,0 +1,15 @@
+[submodule "accounts-v2/lib/solmate"]
+	path = accounts-v2/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "accounts-v2/lib/forge-std"]
+	path = accounts-v2/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "accounts-v2/lib/openzeppelin-contracts"]
+	path = accounts-v2/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts/
+[submodule "accounts-v2/lib/v3-core"]
+	path = accounts-v2/lib/v3-core
+	url = https://github.com/Uniswap/v3-core
+[submodule "accounts-v2/lib/v3-periphery"]
+	path = accounts-v2/lib/v3-periphery
+	url = https://github.com/Uniswap/v3-periphery
