@@ -13,3 +13,12 @@
 [submodule "accounts-v2/lib/v3-periphery"]
 	path = accounts-v2/lib/v3-periphery
 	url = https://github.com/Uniswap/v3-periphery
+[submodule "lending-v2/lib/forge-std"]
+	path = lending-v2/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lending-v2/lib/solmate"]
+	path = lending-v2/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "lending-v2/lib/accounts-v2"]
+	path = lending-v2/lib/accounts-v2
+	url = https://github.com/arcadia-finance/accounts-v2.git
